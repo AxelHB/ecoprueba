@@ -1,0 +1,8 @@
+{
+  "name": "VerdeUrbano - EcoBot Asistente Virtual",
+  "description": "Asistente virtual EcoBot de VerdeUrbano, boutique de moda sustentable: catálogo eco-friendly, envíos, medios de pago y atención personalizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
